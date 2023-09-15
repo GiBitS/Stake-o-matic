@@ -9,7 +9,7 @@ repository = "https://github.com/solana-foundation/stake-o-matic"
 
 [dependencies]
 borsh = "0.9"
-borsh-derive = "0.9"
+borsh-derive = "0.10"
 solana-program = "1.13.6"
 
 [features]
