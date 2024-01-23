@@ -1,1 +1,1 @@
-#  stake-o-matic
+#  staking
